@@ -2,9 +2,9 @@
 name: Loop Bug Report
 about: Create a bug report to help us improve
 title: '[Bug]: '
-labels: ''
-assignees: 'gellerby'
-
+labels: ['needs assignee', 'needs priority']
+assignees: 
+  - gellerby
 ---
 
 <!--- Provide a general summary of the issue in the Title above --> 
